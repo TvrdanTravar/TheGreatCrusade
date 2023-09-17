@@ -1,0 +1,19 @@
+# Save File
+cardsx=6
+cardsy=2
+card-width=451
+card-height=649
+zoom=0.35
+background-color=-16777216
+0_0=I\:\\unityIgre\\BoardGame\\Assets\\ALLIES\\ANY\\00_Fortification_ALS.jpg
+1_0=I\:\\unityIgre\\BoardGame\\Assets\\ALLIES\\ANY\\02_Mass Redeployment_Als.jpg
+2_0=I\:\\unityIgre\\BoardGame\\Assets\\ALLIES\\ANY\\18_Rapid_advance_ALS.jpg
+3_0=I\:\\unityIgre\\BoardGame\\Assets\\ALLIES\\ANY\\20_No_Step_Back_ALS.jpg
+4_0=I\:\\unityIgre\\BoardGame\\Assets\\ALLIES\\ANY\\22_Counterattack_ALS.jpg
+5_0=I\:\\unityIgre\\BoardGame\\Assets\\ALLIES\\ANY\\24_Infiltration_Assault_ALS.jpg
+0_1=I\:\\unityIgre\\BoardGame\\Assets\\ALLIES\\ANY\\25_Resistance_Supression_ALS.jpg
+1_1=I\:\\unityIgre\\BoardGame\\Assets\\ALLIES\\ANY\\26_Volunteer_Spree_ALS.jpg
+2_1=null
+3_1=null
+4_1=null
+5_1=null
